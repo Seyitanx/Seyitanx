@@ -5,7 +5,7 @@ My name is oluwaseyitan, a front end developer with the basic knowlege of html,c
 - 👯 I’m looking to collaborate on more projest and also looking for entry role jobs/interships
 - 🤔 I’m looking for help with React import { IconName } from "react-icons/fa"; and JS
 - 💬 Ask me about books, writing and coding
-- 📫 How to reach me: seyitanadepegba@gail.com
+- 📫 How to reach me: seyitanadepegba@gmail.com
 - You can find me on [![Twitter][1.2]][1] as well 
 - I am open to working with people and building other projects as well and learning from other's contributions
 
