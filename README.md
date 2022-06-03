@@ -1,16 +1,23 @@
-### Hi there 👋
+ Hi there 👩🏾‍💻
+My name is oluwaseyitan, a front end developer with the basic knowlege of html,css and javascript, with this i have been able to build some projects.
+- 🔭 I’m currently working on a challenge from frontend mentor.
+- 🌱 I’m currently learning React and more JavaScript🙈
+- 👯 I’m looking to collaborate on more projest and also looking for entry role jobs/interships
+- 🤔 I’m looking for help with React and JS
+- 💬 Ask me about books, writing and coding
+- 📫 How to reach me: seyitanadepegba@gail.com
+- You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+- I am open to working with people and building other projects as well and learning from other's contributions
 
-<!--
-**Seyitanx/Seyitanx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Icons -->
 
-Here are some ideas to get you started:
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<!-- Links to your social media accounts -->
+
+[1]: https://twitter.com/seyitanbaby
+[2]: https://www.linkedin.com/in/oluwaseyitan adepegba/
+- ⚡ Fun fact: i love love reading/watching books and movies that are about murder mystry
 -->
+<img align="center" src="https://github-readme-stats.vercel.app/api/<top-langs>/?username=<Seyitanx>&theme=<THEME_NAME>" />
