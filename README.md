@@ -12,7 +12,7 @@ My name is oluwaseyitan, a front end developer with the basic knowlege of html,c
 <!-- Icons -->
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+[2.2]: https://raw.githubusercontent.com/linkedin-3-16.png (LinkedIn icon without padding)
 
 <!-- Links to your social media accounts -->
 
@@ -20,4 +20,3 @@ My name is oluwaseyitan, a front end developer with the basic knowlege of html,c
 [2]: https://www.linkedin.com/in/oluwaseyitanadepegba/
 - ⚡ Fun fact: i love love reading/watching books and movies that are about murder mystry
 -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/<top-langs>/?username=<Seyitanx>&theme=<THEME_NAME>" />
