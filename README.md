@@ -1,4 +1,4 @@
- Hi there 👩🏾‍💻
+[![Header] Hi there 👩🏾‍💻]
 My name is oluwaseyitan, a front end developer with the basic knowlege of html,css and javascript, with this i have been able to build some projects.
 - 🔭 I’m currently working on a challenge from frontend mentor.
 - 🌱 I’m currently learning React and more JavaScript🙈
@@ -6,7 +6,7 @@ My name is oluwaseyitan, a front end developer with the basic knowlege of html,c
 - 🤔 I’m looking for help with React and JS
 - 💬 Ask me about books, writing and coding
 - 📫 How to reach me: seyitanadepegba@gail.com
-- You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+- You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 - I am open to working with people and building other projects as well and learning from other's contributions
 
 <!-- Icons -->
